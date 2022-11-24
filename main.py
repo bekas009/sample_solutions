@@ -7,7 +7,7 @@ unique = set(data)
 unique = sorted(unique)
 # print(data)
 for i in unique:
-    print(i, data.count(i))
+    print (data.count(i), i)
 
 
 
