@@ -4,11 +4,7 @@ data = input().split()
 data.sort()
 # find and sorted unique data
 unique = set(data)
-unique = sorted(unique)
+# unique = sorted(unique)
 # print(data)
 for i in unique:
     print (data.count(i), i)
-
-
-
-
