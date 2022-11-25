@@ -1,6 +1,6 @@
 # sample_solutions
 example for Stepik platform
-task "sets and metods" -3.3
+Task - "sets and metods" -3.3
 
 -------------------
 condition
